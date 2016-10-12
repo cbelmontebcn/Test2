@@ -89,6 +89,7 @@ public class Switch01 {
         if (returnedmyMonthNumber == 0) {
             System.out.println("Invalid myMonth");
         } else {
+	    System.out.println("Month number for "+myMonth+" is "+returnedmyMonthNumber);
             System.out.println(returnedmyMonthNumber);
         }
     }
