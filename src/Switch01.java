@@ -91,6 +91,7 @@ public class Switch01 {
         } else {
 	    System.out.println("Month number for "+myMonth+" is "+returnedmyMonthNumber);
             System.out.println(returnedmyMonthNumber);
+	    System.out.println("End of the world!");
         }
     }
 }
